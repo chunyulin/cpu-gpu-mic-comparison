@@ -1,0 +1,8 @@
+# Data of high-end double precision AMD CPUs over the last years
+# Collected by Karl Rupp
+# Details and discussion at 
+# http://www.karlrupp.net/2013/06/cpu-gpu-and-mic-hardware-characteristics-over-time/
+#
+#Year   GFLOPs-SP   GFLOPs-DP  Cores  Mem-BW/Socket  TDP   Freq(MHz)  Name
+2019     6960       3480      64          190        240   3400       "Epyc 7742"
+
