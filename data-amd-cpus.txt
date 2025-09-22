@@ -3,6 +3,7 @@
 # Details and discussion at 
 # http://www.karlrupp.net/2013/06/cpu-gpu-and-mic-hardware-characteristics-over-time/
 #
-#Year   GFLOPs-SP   GFLOPs-DP  Cores  Mem-BW/Socket  TDP   Freq(MHz)  Name
-2019     6960       3480      64          190        240   3400       "Epyc 7742"
-
+#Year   GFLOPs-SP   GFLOPs-DP  Cores  Mem-BW/Socket  TDP   MaxFreq(MHz)  Name
+2019     6960       3480      64          190        240   3400       "Z2 Rome"  Epyc 7742 (
+2021     9460       4730      64          205        240   3670       "Z3 Milan"  Epyc 7713 (
+2024    37890      18940     160          614        390   3700       "Z5"        Epyc 9845 (
